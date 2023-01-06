@@ -1,0 +1,2 @@
+*,:after,:before{box-sizing:border-box}body{background:linear-gradient(90deg,#0af,#00ff6c);margin:0}button{height:100%;width:100%}.flex{display:flex}.grid{display:grid}.justifyCenter{justify-content:center}.itemsCenter{align-items:center}.calculator{grid-template-columns:repeat(4,6rem);grid-template-rows:minmax(7rem,auto) repeat(5,6rem);margin-top:2rem}.button{height:100%;width:100%}.span-two{grid-column:span 2}.output{grid-column:span 4}.double button{height:6rem;width:100%}
+/*# sourceMappingURL=main.8b14ef5d.css.map*/
